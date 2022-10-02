@@ -1,0 +1,2 @@
+IP/dominio		Username/​password	
+test.rebex.net		demo/​password
